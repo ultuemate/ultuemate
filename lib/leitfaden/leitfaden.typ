@@ -71,11 +71,22 @@
         #pagebreak()
 ]
 
+// Outline
+//
+// The second page contains the outline. No special handling is needed, and
+// styling is done by `mt.leitfaden()`.
 #[
         #outline()
 
         #pagebreak()
 ]
+
+// Main Content
+//
+// This section contains all the main content of the document. Whenever
+// possible, styling is extracted into `mt.leitfaden()`, so the document stays
+// as clean as possible. It is meant to be readable without requiring a render
+// pass.
 
 = Hard Facts <hard-facts>
 
