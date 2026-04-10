@@ -3,16 +3,16 @@
 This is a non-official repository with documents of the Ultimate Frisbee club
 in Tübingen. Amongst others, it contains:
 
-- ./lib/archive/
+- `./lib/archive/`
   Preserved historical documents of the club, possibly without immediate
   relevance.
-- ./lib/build/
+- `./lib/build/`
   Prerendered artifacts of the different documents of the club. These are built
-  from the other sources in ./lib/ and checked into the repo for easier lookup
-  by club members.
-- ./lib/leitfaden/
+  from the other sources in `./lib/` and checked into the repo for easier
+  lookup by club members.
+- `./lib/leitfaden/`
   Sources for the official Leitfaden documents of the club.
-- ./lib/logo/
+- `./lib/logo/`
   Vector files of the different logos used by the club.
 
 ### Project
