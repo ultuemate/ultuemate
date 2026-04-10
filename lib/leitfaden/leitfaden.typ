@@ -41,6 +41,9 @@
         sich auf der Maultaschen~Homepage unter
         #link("https://ultimate-tuebingen.de/").
 
+        Großer Dank an Sonja Lorenz für die initiale Auflage und Aufbereitung
+        des Leitfadens!
+
         #set align(bottom)
 
         == #quote[Spirit of the Game] <sotg>
